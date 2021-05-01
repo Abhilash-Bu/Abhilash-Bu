@@ -1,5 +1,5 @@
-### Hi there 👋
-### Python | Machine Learning
+# Hi there 👋
+# Python | Machine Learning
 
 ## Specialized in Python and Machine Learning Concepts
 ## Check out my projects.
