@@ -1,5 +1,5 @@
 # Hi there 👋
-# Python | Machine Learning
+# Python | Machine Learning | Data Science
 
 ## Check out my projects ⬇️⬇️⬇️
 
