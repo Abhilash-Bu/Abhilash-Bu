@@ -1,7 +1,6 @@
 # Hi there 👋
 # Python | Machine Learning | Data Science
 
-## Check out my projects ⬇️⬇️⬇️
 
 <!--
 **Abhilash-Bu/Abhilash-Bu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
